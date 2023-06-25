@@ -1,5 +1,5 @@
 # Welcome!
- Welcome to the Mr. Schaffner's GitHub ! 
+ Welcome to Mr. Schaffner's GitHub ! 
 
 Here you will find Code Summaries of projects I've worked on, as well as 
 Projects available to download, 
